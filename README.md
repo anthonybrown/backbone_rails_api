@@ -8,3 +8,5 @@ it's a great user experience and it's not "the norm"
 or at least not yet. More and more developers are using
 an isomorphic kind of application where the backend code
 produces basically the same code as the client.
+
+The Backbone code is written in coffescript.
