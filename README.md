@@ -1,20 +1,10 @@
-Hands-on Backbone.js on Rails
-================
+# backbone rails api appliction that I learned from
+Basically we are using rails as an api to serve JSON
+our application. Backbone takes care of the routing
+and templating is basically what you want to use.
 
-Welcome to thoughtbot's Hands-on Backbone.js on Rails workshop!
-
-This repository is where you'll do your work for the application you'll build during the workshop.
-
-Fork this private repo into your own Github Account. 
-If you don't know how to do this, there are [instructions on GitHub](https://help.github.com/articles/fork-a-repo)
-
-Our version of this repository is empty except for this README and thats the point. By working in your own fork of this
-repository we'll be able to see the code you're writing, answer questions, and even comment on it.
-
-Other students in the workshop will also be able to see the code you're writing if they browse to your fork.
-
-If you have any questions at all, access the private Campfire chat, email learn@thoughtbot.com, or attend the weekly 
-office hours. However, don't wait until the office hours if you get stuck or have questions, we're here to help you!
-
-Finally, you can view the [source code for the fully completed application](https://github.com/thoughtbot/hands-on-backbone-js-on-rails-solution/commits/master).
-# backbone_rails_api Application
+This is my favorite kind of application to build because
+it's a great user experience and it's not "the norm"
+or at least not yet. More and more developers are using
+an isomorphic kind of application where the backend code
+produces basically the same code as the client.
